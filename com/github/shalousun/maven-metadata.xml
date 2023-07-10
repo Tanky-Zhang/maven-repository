@@ -3,8 +3,8 @@
   <plugins>
     <plugin>
       <name>smart-doc-maven-plugin</name>
-      <prefix>smart-doc</prefix>
-      <artifactId>smart-doc-maven-plugin</artifactId>
+      <prefix>big-smart-doc</prefix>
+      <artifactId>big-smart-doc-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
